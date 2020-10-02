@@ -1,0 +1,156 @@
+.barra_lateral{
+    width: 200px;
+    height: 720px;
+    background-color: #272727;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding: -20px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    
+
+}
+
+#area-principal {
+    width: 920px;
+    height: 790px;
+	margin: 0 auto;
+    padding: 15px;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+.foto{
+    border-radius: 20px;
+    align-content: center;
+    
+}
+
+.titulo_contatos{
+    display: block;
+    margin-left: -100px;
+    text-align: center;
+}
+
+h5{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.img_location{
+    margin-left: -60px;
+}
+.text_locations{
+    color: white;
+    margin-top: -35px; 
+    margin-left: 50px;   
+}
+
+.text_email{
+    color: white;
+    margin-top: -30px; 
+    margin-left: 50px;   
+}
+
+.text_telefone{
+    color: white;
+    margin-top: -30px; 
+    margin-left: 50px;   
+}
+
+#lateral_direita{
+    background-color: #ffffff;
+    border: 1px solid grey;
+    float: right;
+    width: 450px;
+    height: 720px;
+    padding-top: 50px;
+    margin: 10px;
+    margin-top: -780px;
+    margin-right: 100px;
+    
+    
+}
+
+.conteudo_lateral{
+    margin-top: -20px;
+    padding-left: 5px;
+    color: black;
+    text-align: center;
+}
+
+.cor_h5{
+    color: black;
+    margin-top: -10px;
+}
+
+.div_separadora{
+    margin: 5px
+
+}
+.tabela{
+    background-color: rgb(161, 156, 156);
+    border: 2px solid black;
+    width: 400px;
+    margin-left: 10px;
+    padding-left: 5px;
+    margin-top: 20px;
+    color: black;
+}
+
+.tabela_continuacao{
+    width: 350px;
+    margin-left: 10px;
+    padding-left: 5px;
+    color: black;
+}
+
+ul{
+    color: black;
+}
+
+.conteudo_lista{
+    width: 280px;
+    float: right;
+    margin-right: 40px;
+    margin-top: -53px;
+    padding-top: -20px;
+    color: black;
+}
+
+.cor{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.referencias{
+    margin-left: -100px;
+    margin-top: 200px;
+    height: 210px;
+}
+
+.tabela_referencias{
+    background-color: rgb(161, 156, 156);
+    border: 2px solid black;
+    width: 298px;
+    color: black;
+}
+
+.centro{
+    text-align: center;
+    color: black
+}
+
+.img{
+    margin-left: 15px;
+    color: white
+}
+
+.cor_mercado{
+    color: black;
+    margin-left: -70px;
+    margin-top: -5px;
+}
